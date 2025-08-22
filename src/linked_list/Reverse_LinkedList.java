@@ -1,10 +1,5 @@
 package linked_list;
 
-class ListNode {
-    int val;
-    ListNode forward;
-    ListNode(int val) { this.val = val; }
-}
 
 public class Reverse_LinkedList {
     public static ListNode reverseList(ListNode head) {
